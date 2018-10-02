@@ -16,5 +16,5 @@ mkdir webscrapping && cd webscrapping
 
 git clone "https://github.com/amit9651/Web-Scrapping-python.py.git"
 
-Run the programs using command prompt in windows or terminal in linux
+Run the programs using command prompt in windows or terminal in linux to get early usage.
 
